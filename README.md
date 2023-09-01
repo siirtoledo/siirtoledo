@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siirtoledo&label=Profile%20views&color=0e75b6&style=flat" alt="alex1-ai" /> </p>
 <h1 align="center">Hi 👋, I'm Francisco Pakito Toledo-Asare</h1>
-<h3 align="center">A passionate junior software engineer from Ghana</h3>
+<h3 align="center">A passionate software engineer from Ghana</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siirtoledo&label=Profile%20views&color=0e75b6&style=flat" alt="siirtoledo" /> </p>
 
